@@ -2,6 +2,6 @@
 Intro Repository
 
 My name is Dallas Moore and this is my intro to Github.
-Im currently in graduate school working on obtaining my masters in InfoSys with a concentration in Big Data Analytics
+This place is for me to reignite my love for Python programming after graduating with a Masters in Information Systems with a Concentration in Big Data Analytics
 
-I hope to become a better programmer (currnetly using Python and loving it) and be on a fast track to becoing a great data analyst in tyhe future.
+My goal is to start from the fundamentals and work my way back to fighting form with it comes to this programming langauage.
